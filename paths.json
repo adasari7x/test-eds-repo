@@ -1,10 +1,10 @@
 {
-  "mappings": [
-    "/content/test-eds-repo/:/",
-    "/content/test-eds-repo/configuration:/.helix/config.json",
-    "/content/test-eds-repo/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/test-eds-repo/"
-  ]
+  "mappings": [
+    "/content/test-eds-repo/:/",
+    "/content/test-eds-repo/configuration:/.helix/config.json",
+    "/content/test-eds-repo/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/test-eds-repo/"
+  ]
 }
